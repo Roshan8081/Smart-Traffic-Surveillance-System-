@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚦 Smart Traffic Violation Detection System
 
 AI-powered full-stack system for detecting traffic violations using computer vision and OCR.
@@ -191,3 +192,7 @@ GET:
 ## 📜 License
 
 MIT License
+=======
+# Smart-Traffic-Surveillance-System-
+Building an AI-powered system to automate real-time traffic monitoring, including vehicle detection, number plate recognition, and speed tracking;achieving 92% vehicle detection accuracy and 85% plate recognition precision. Integrating YOLOv5 object detection with OpenCV for live video feeds.
+>>>>>>> 09c9b8b9f31b61c333999bb0ca91049acb6113a5
