@@ -38,3 +38,10 @@ Thumbs.db
 
 dist/
 build/
+
+
+# Logs
+.logs/
+
+# MongoDB local data
+.mongodb-data/
